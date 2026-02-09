@@ -208,10 +208,6 @@ builders:
       id: 1aad55f7-2dea-4f22-85ca-ad9de3a78609
     - username: DerStiv
       id: f1ff7ecc-2e79-4320-85de-adb392eb2822
-    - username: lunaceee
-      id: 97d1cc45-0f69-482b-9974-09351aef9dfa
-    - username: Obelistics
-      id: b03360db-b8cd-49de-8ba1-b7920c2238a9
 advisors:
   color: "#a00"
   members:
