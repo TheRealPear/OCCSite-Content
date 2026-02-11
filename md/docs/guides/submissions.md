@@ -1,7 +1,7 @@
 ---
 title: Map Submissions
 icon: map
-updated: "2024-11-17"
+updated: "2025-06-02"
 ---
 
 Information regarding server map submissions.
@@ -20,9 +20,9 @@ Maps submitted to Overcast Community must meet a certain standard and specific l
 
 - Maps should be fully compatible with Minecraft 1.8 and avoid usage of blocks or features from later versions of the game. Worlds built in 1.9-1.12 may be accepted as long as they are properly [NBT converted to support 1.8](https://github.com/mitchts/nbt-converter), and make use of no blocks or features from those versions.
 
-- Before your map submission ensure that you have a fully working map.xml file, the map files have been pruned, and you have created a map.png at `290x246` resolution.
+- Before your map submission ensure that you have a fully working `map.xml` file, the map files have been pruned, and you have created a map.png at `290x246` resolution.
 
-- All map.xml files for new map submissions must be in proto `1.5.0` and follow standard [PGM XML conventions](https://pgm.dev/docs/guides/xml-pointers/conventions/).
+- All `map.xml` files for new map submissions must be in proto `1.5.0` and follow standard [PGM XML conventions](https://pgm.dev/docs/guides/xml-pointers/conventions).
 
 - Avoid maps that are highly derivative of other maps or do little to stand out as unique when compared to similar maps, especially those in oversaturated gamemodes.
 
@@ -40,7 +40,7 @@ Maps submitted to Overcast Community must meet a certain standard and specific l
 
 To aid potential mapmakers in creating maps, Overcast Community features a mapmaking server designed with PGM map creation in mind. The server features many useful plugins including WorldEdit, Arceon, and multiple custom plugins tailored specifically for PGM mapmaking. Further details can be found in [Mapmaker](/mapmaker).
 
-In order to help create the map.xml file for new maps, many great public community resources are available. These include the many community maps within our [repositories](https://github.com/OvercastCommunity/CommunityMaps), the main [documentation site for PGM](https://pgm.dev/), and the `#mapmaking` channel within [Overcast Community's Discord server](/socials/discord). These community resources collectively greatly aid in map development and should easily allow anyone the ability to create new maps for Overcast Community.
+In order to help create the `map.xml` file for new maps, many great public community resources are available. These include the many community maps within our [repositories](https://github.com/OvercastCommunity/CommunityMaps), the main [documentation site for PGM](https://pgm.dev/), and the `#mapmaking` channel within [Overcast Community's Discord server](/socials/discord). These community resources collectively greatly aid in map development and should easily allow anyone the ability to create new maps for Overcast Community.
 
 
 
