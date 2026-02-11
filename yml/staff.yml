@@ -42,6 +42,10 @@ developers:
       id: cc2292de-fcb3-412d-9319-f3177f73b605
       links:
         github: cswhite2000
+    - username: kashike
+      id: eb121687-8b1a-4944-bd4d-e0a818d9dfe2
+      links:
+        github: kashike
 map developers:
   color: "#55f"
   members:
